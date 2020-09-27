@@ -4,8 +4,7 @@
 
 cookies method with python2 version
 
-## Installation
-
+## Instal
 ```
 
 pkg install python2
@@ -30,4 +29,4 @@ python2 run.py
 
 ## Contact
 
-[Facebook](https://www.facebook.com/dulahz)
+[Facebook](https://www.facebook.com/hgfhxfhgaswh)
