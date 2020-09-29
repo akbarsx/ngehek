@@ -6,6 +6,9 @@ cookies method with python2 version
 
 ## Instal
 ```
+git clone https://github.com/akbarsx/ngehek
+
+unzip bebek.zip
 
 pkg install python2
 
