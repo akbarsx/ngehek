@@ -5,8 +5,6 @@ cookies method with python2 version
 ```
 git clone https://github.com/akbarsx/ngehek
 
-cd ngehek
-
 pkg install python2
 
 pip2 install requests bs4
