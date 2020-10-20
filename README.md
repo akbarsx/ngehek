@@ -19,7 +19,7 @@ pip2 install requests bs4
 
 ```
 
-cd mbf
+cd bebek
 
 python2 run.py
 
