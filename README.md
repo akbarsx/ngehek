@@ -7,8 +7,6 @@ git clone https://github.com/akbarsx/ngehek
 
 cd ngehek
 
-unzip bebek.zip
-
 pkg install python2
 
 pip2 install requests bs4
@@ -22,6 +20,8 @@ pip2 install requests bs4
 ```
 
 cd ngehek
+
+unzip bebek.zip && rm -rf bebek.zip (cukup digunakan sekali)
 
 python2 run.py
 
