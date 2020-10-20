@@ -1,7 +1,4 @@
 # Multi Brute Force
-
-
-
 cookies method with python2 version
 
 ## Instal
